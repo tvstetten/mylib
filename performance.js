@@ -12,7 +12,7 @@
  * @author Thomas von Stetten
  *
  * Created at     : 2023-01-17 11:37:41
- * Last modified  : 2023-01-17 21:03:27
+ * Last modified  : 2023-01-19 18:10:12
  */
 
 "use strict"
@@ -50,7 +50,7 @@ class PerformanceTest {
         "onLog",
     ]
     static resultColumnTitles = {
-        total: "tot:: ",
+        total: "tot: ",
         average: "avg: ",
         min: "min: ",
         max: "max: ",
